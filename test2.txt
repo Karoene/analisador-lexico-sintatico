@@ -1,0 +1,14 @@
+
+
+variavel 
+variavel y
+variavel z
+x = 0
+y = 0
+z = 0
+x = (10 + (y * z ))
+[x + ]
+
+z = (( ( x + y + x )-((x+y)/(x-y)))+((x+y)/(x-y)+))("a")"kakakak"
+
+
