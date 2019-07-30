@@ -1,0 +1,8 @@
+inicia
+variavel x;
+variavel y;
+x = 10
+x = x + y
+y = 10 + 51 - 2.01
+y = "string"
+termina

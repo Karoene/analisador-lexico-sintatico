@@ -1,0 +1,3 @@
+inicia
+variavel x;
+termina
